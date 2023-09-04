@@ -1,7 +1,5 @@
 # ASTHMA ATTACK PREDICTION: MACHINE LEARNING APPROACH 
 
-This project is part of Nashville Software School part time data science bootcamp final/capstone project. 
-
 ## PROJECT PURPOSE:
 
 To build machine learning model to predict asthma attack. I will be using All of Us Research databases, which is an electronic health record data plus survey for this project.
